@@ -2,3 +2,7 @@ welcome to my programming word
 
 1.Addition of two number
 2.Subtraction of two number
+3. Divajin of two number
+4. multiplication of two number
+
+Thanks 
